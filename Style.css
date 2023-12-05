@@ -1,0 +1,60 @@
+.combo{
+    background-color: #8ACDD7;
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+}
+#one:link{
+  color: yellow;
+}
+#one:visited{
+  color:blue;
+}
+#one:active{
+  color:red;
+}
+#one{
+ 
+  text-decoration: none;
+  background-color: white;
+    
+}
+#one:hover{
+  background-color:#29ADB2;
+     
+}
+a{
+  text-decoration: none;
+}
+.colouring{
+  background-color:#FCF5ED ;
+}
+.section{
+  background-color: #0174BE;
+  font-size: 30px;
+  color: white;
+  padding-top: 50px;
+  padding-right: 30px;
+  padding-bottom: 50px;
+  padding-left: 80px;
+}
+.sector{
+  background-color: #F9F9E0;
+  color: black;
+  padding-top: 50px;
+  padding-right: 30px;
+  padding-bottom: 50px;
+  padding-left: 80px;
+
+}
+.colours{
+  background-color: #0174BE;
+  color: white;
+  padding-top: 50px;
+  padding-right: 30px;
+  padding-bottom: 50px;
+  padding-left: 80px;
+
+}
+
